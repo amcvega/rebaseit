@@ -1,3 +1,4 @@
 var blah = function(x,y) {
-    return x + y
+    var z = 30;
+    return x + y + z
  }
